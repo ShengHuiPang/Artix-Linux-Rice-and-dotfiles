@@ -11,3 +11,4 @@ My Linux Configuration Includes:
   7. Poly Bar Configs
   8. Packages installed
   9. Glasscord Customizations
+ 10. Wallpapers and Pictures
