@@ -1,6 +1,6 @@
 # My Arch Linux Build Configuration Files
 My Linux Configuration Includes:
-  1. ZSH & MyZSH Configs
+  1. ZSH & OhMyZsh Configs
   2. Grub Themes
   3. Plymouth files
   4. i3 Gaps Configs
