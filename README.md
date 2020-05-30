@@ -12,3 +12,4 @@ My Linux Configuration Includes:
   8. Packages installed
   9. Glasscord Customizations
  10. Wallpapers and Pictures
+ 11. vimrc
