@@ -1,7 +1,7 @@
-# My Arch Linux Build Configuration Files
+# My Artix Linux (runit) Build Configuration Files
 This configuration files will be used to recover my Linux system efficiently so that I can start my work right away after a system reset.
 
-My Linux Configuration Includes:
+My Linux Configuration and dotfiles Includes:
   1. Zsh, OhMyZsh and Powerline/Powerlevel10k Configs
   2. Grub Themes
   3. Plymouth files
